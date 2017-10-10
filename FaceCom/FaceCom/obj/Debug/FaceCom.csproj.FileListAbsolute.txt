@@ -1,0 +1,8 @@
+F:\queuingMachine\FaceCom\FaceCom\bin\Debug\FaceCom.exe.config
+F:\queuingMachine\FaceCom\FaceCom\bin\Debug\FaceCom.exe
+F:\queuingMachine\FaceCom\FaceCom\bin\Debug\FaceCom.pdb
+F:\queuingMachine\FaceCom\FaceCom\obj\Debug\FaceCom.csprojResolveAssemblyReference.cache
+F:\queuingMachine\FaceCom\FaceCom\obj\Debug\FaceCom.Properties.Resources.resources
+F:\queuingMachine\FaceCom\FaceCom\obj\Debug\FaceCom.csproj.GenerateResource.Cache
+F:\queuingMachine\FaceCom\FaceCom\obj\Debug\FaceCom.exe
+F:\queuingMachine\FaceCom\FaceCom\obj\Debug\FaceCom.pdb

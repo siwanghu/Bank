@@ -1,0 +1,6 @@
+F:\queuingMachine\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe.config
+F:\queuingMachine\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csprojResolveAssemblyReference.cache
+F:\queuingMachine\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe
+F:\queuingMachine\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.pdb
+F:\queuingMachine\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.exe
+F:\queuingMachine\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.pdb

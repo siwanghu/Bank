@@ -1,0 +1,6 @@
+F:\queuingMachine\queuingMachinePrinter\queuingMachinePrinter\bin\Debug\queuingMachinePrinter.exe.config
+F:\queuingMachine\queuingMachinePrinter\queuingMachinePrinter\obj\Debug\queuingMachinePrinter.csprojResolveAssemblyReference.cache
+F:\queuingMachine\queuingMachinePrinter\queuingMachinePrinter\bin\Debug\queuingMachinePrinter.exe
+F:\queuingMachine\queuingMachinePrinter\queuingMachinePrinter\bin\Debug\queuingMachinePrinter.pdb
+F:\queuingMachine\queuingMachinePrinter\queuingMachinePrinter\obj\Debug\queuingMachinePrinter.exe
+F:\queuingMachine\queuingMachinePrinter\queuingMachinePrinter\obj\Debug\queuingMachinePrinter.pdb

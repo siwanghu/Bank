@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configure>
+  <uiConfigure>
+    <ui>1</ui>
+    <control_background></control_background>
+    <background></background>
+    <id_name_one>业务1</id_name_one>
+    <id_name_two>业务2</id_name_two>
+    <id_name_three>业务3</id_name_three>
+    <id_name_four>业务4</id_name_four>
+    <id_name_five>业务5</id_name_five>
+    <id_name_six>业务6</id_name_six>
+  </uiConfigure>
+  <screenConfigure>
+    <title>中国银行</title>
+    <background>F:\queuingMachine\WinUI\WinUI\boc.jpg</background>
+  </screenConfigure>
+  <vipConfigure>
+    <vip_number>3</vip_number>
+    <vip_number_one>6222</vip_number_one>
+    <vip_number_two>6223</vip_number_two>
+    <vip_number_three>6224</vip_number_three>
+  </vipConfigure>
+  <printConfigure>
+    <title_welcome>true</title_welcome>
+    <title_number>true</title_number>
+    <title_queue>true</title_queue>
+    <title_time>true</title_time>
+  </printConfigure>
+  <languageConfigure>
+    <chinese>true</chinese>
+    <english>true</english>
+  </languageConfigure>
+  <passwordConfigure>
+    <password>123</password>
+  </passwordConfigure>
+</configure>

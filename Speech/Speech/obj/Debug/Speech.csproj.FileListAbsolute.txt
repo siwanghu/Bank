@@ -1,0 +1,6 @@
+F:\queuingMachine\Speech\Speech\bin\Debug\Speech.exe.config
+F:\queuingMachine\Speech\Speech\bin\Debug\Speech.exe
+F:\queuingMachine\Speech\Speech\bin\Debug\Speech.pdb
+F:\queuingMachine\Speech\Speech\obj\Debug\Speech.csprojResolveAssemblyReference.cache
+F:\queuingMachine\Speech\Speech\obj\Debug\Speech.exe
+F:\queuingMachine\Speech\Speech\obj\Debug\Speech.pdb
